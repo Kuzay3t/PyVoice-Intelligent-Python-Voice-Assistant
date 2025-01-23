@@ -4,14 +4,14 @@
 A customizable voice assistant built with Python, leveraging advanced speech recognition and natural language processing technologies.
 
 **Features**
-Speech-to-text conversion
-Natural language understanding
-Configurable voice commands
-Modular design for easy extension
+1. Speech-to-text conversion
+2. Natural language understanding
+3. Configurable voice commands
+4. Modular design for easy extension
 
 Prerequisites: Python 3.8+
 
 **Required libraries**
-SpeechRecognition
-pyttsx3
-PyAudio
+1. SpeechRecognition
+2. pyttsx3
+3. PyAudio
